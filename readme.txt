@@ -1,2 +1,6 @@
 - Jo le rigolo
-- JO THE ROGOLO ?
+<<<<<<< HEAD
+- JO THE RIGOLO ?
+=======
+- JO DIE ROGOLO ?
+>>>>>>> maBranche
