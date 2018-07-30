@@ -1,2 +1,2 @@
 - Jo le rigolo
-- JO LE ROGOLO ?
+- JO DIE ROGOLO ?
