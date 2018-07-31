@@ -1,2 +1,4 @@
 - Jo le rigolo
-- JO THE RIGOLO ?
+- JO LE RIGOLO ?
+modif2
+mon test smartgit
